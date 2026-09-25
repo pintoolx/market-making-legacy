@@ -1,3 +1,5 @@
+> **Archived.** Superseded by [pintoolx/market-making](https://github.com/pintoolx/market-making) (formerly `market-making-next`), rebuilt with clean history. mm.pintool.fun and the Railway `mandate-service` deploy from the replacement. This repository is kept read-only for reference.
+
 # PinTool Market Making
 
 **Private strategy intelligence for self-custodial market making.**
